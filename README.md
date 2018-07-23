@@ -16,14 +16,14 @@ $ go install github.com/fukumone/eji
 
 ## Usage
 
-### Find keyword from emoji
+### Find emoji from keywords
 
 ```
 $ eji :smile:
 # output 😄
 ```
 
-### Find emoji from keyword
+### Find keyword from emoji
 
 ```
 $ eji 😄
